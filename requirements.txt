@@ -1,0 +1,15 @@
+llama-index-embeddings-clip
+llama-index-multi-modal-llms-openai
+llama-index-vector-stores-qdrant
+llama_index
+ftfy
+regex
+tqdm
+torch
+torchvision
+matplotlib
+scikit-image
+qdrant-client
+gdown
+python-dotenv
+flask
